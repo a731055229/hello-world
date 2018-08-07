@@ -15,7 +15,7 @@
 </head>
 <body style="background-color:#f2f9fd;">
 <div class="leftnav">
-  <div class="leftnav-title"><strong><span class="icon-list"></span>菜单列表</strong></div>
+  <div class="leftnav-title"><strong><span class="icon-list"></span>菜单列后面还会有表</strong></div>
   <h2><span class="icon-user"></span>基本设置</h2>
   <ul style="display:block">
     <li><a href="pass.jsp" target="right"><span class="icon-caret-right"></span>修改密码</a></li>
